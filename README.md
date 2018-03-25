@@ -1,6 +1,6 @@
 # mastodon-webview
 
-Tiny little app that presents the Masodon web app in its own window
+Tiny little app that presents the Mastodon web app in its own window
 using [webview](https://github.com/zserge/webview).
 
 It is essentially just the simple example from the webview repo with the
@@ -43,7 +43,7 @@ Mastodon.app directory into `/Applications`.
 
 ## Credit
 
-The icon I've used for the Mac icon is from the [Masodon Press Kit](https://github.com/tootsuite/joinmastodon/blob/master/public/press-kit.zip),
+The icon I've used for the Mac icon is from the [Mastodon Press Kit](https://github.com/tootsuite/joinmastodon/blob/master/public/press-kit.zip),
 there are a couple alternatives there you might prefer.
 
 ## License

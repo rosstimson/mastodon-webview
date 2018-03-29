@@ -15,7 +15,7 @@ some additional cruft needed for use as a Mac app.
 
 You'll need a working Go development environment setup as well
 gtk-webkit2 (OS package names will vary) , on a Mac an install of Xcode
-should have you covered.
+should have you covered.  On Fedora (and possibly other Red Hat based distros) you'll need the webkitgtk4-devel package.
 
 Install [webview](https://github.com/zserge/webview) with:
 
